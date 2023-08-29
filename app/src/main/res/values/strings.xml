@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SnakeGame</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="register">Register</string>
+    <string name="_0">0</string>
+    <string name="logout">Logout</string>
+    <string name="back">Back</string>
+    <string name="name">name</string>
+</resources>
